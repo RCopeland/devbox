@@ -1,1 +1,1 @@
-../../dotfiles/nvim/.config/nvim/LICENSE.md
+../../dotfiles/.config/nvim/LICENSE.md
